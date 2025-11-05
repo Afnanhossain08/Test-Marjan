@@ -1,0 +1,7 @@
+D:\Amr Shompotti\STUDY\Git\Gitpratice\bin\Debug\Gitpratice.exe.config
+D:\Amr Shompotti\STUDY\Git\Gitpratice\bin\Debug\Gitpratice.exe
+D:\Amr Shompotti\STUDY\Git\Gitpratice\bin\Debug\Gitpratice.pdb
+D:\Amr Shompotti\STUDY\Git\Gitpratice\obj\Debug\Gitpratice.csproj.AssemblyReference.cache
+D:\Amr Shompotti\STUDY\Git\Gitpratice\obj\Debug\Gitpratice.csproj.CoreCompileInputs.cache
+D:\Amr Shompotti\STUDY\Git\Gitpratice\obj\Debug\Gitpratice.exe
+D:\Amr Shompotti\STUDY\Git\Gitpratice\obj\Debug\Gitpratice.pdb
